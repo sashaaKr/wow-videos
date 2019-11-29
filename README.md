@@ -1,2 +1,3 @@
 # wow-videos
-List of videos that did wow effect
+
+https://www.youtube.com/watch?v=vK1DazRK_a0 - clojure concept in javascripts or how to solve problems in functional programming approach
